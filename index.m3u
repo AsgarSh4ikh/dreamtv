@@ -831,7 +831,7 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/SpBW5W2.png" group-title="Mixed",BBC World News
 http://51.52.156.22:8888/http/004
-#EXTINF:0 tvg-logo="https://i.imgur.com/CuqQXZz.png"" group-title="Mixed",CNN
+#EXTINF:0 tvg-logo="https://i.imgur.com/CuqQXZz.png" group-title="Mixed",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.logolynx.com/images/logolynx/06/06a7ef972e12acd213d5c04095295fb6.jpeg" group-title="Mixed",Bloomberg Asia
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8

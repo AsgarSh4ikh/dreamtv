@@ -204,7 +204,7 @@ http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="Indian Bangla",Sony Aath [opt]
 http://208.115.215.42/Sony_Aath/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian Bangla",Jalsha Movies HD
-http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/199
+http://starshare.live:8080/live/738323/277337/425.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="Indian Bangla",Zee Bangla
 http://103.205.133.19/hls/zeebanglahd.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="Indian Bangla",Zee Bangla HD
@@ -253,7 +253,7 @@ https://d30uyb7igts9op.cloudfront.net/DD_BANGLA.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGAh9MaPS9uMRiS0Pd0KShm3RYBE3grP-ixQA-UmXOENPEJWZxqu3Ut1GVqCU8z3GfHvM&usqp=CAU&ec=45780880" group-title="Hindi",Sony SD
 http://103.205.133.19/hls/chs.m3u8
 #EXTINF:0 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="Hindi",Sony HD
-http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/184
+http://starshare.live:8080/live/738323/277337/224.ts
 #EXTINF:0 tvg-logo="https://data.apksum.com/64/in.com.sonymaxmobiletv/2.0.0/icon.png" group-title="Hindi",Sony Max HD
 http://221.120.204.4/SONY-MAX/tracks-v1a1/mono.m3u8
 #http://starshare.live:8080/live/738323/277337/151.ts
@@ -272,7 +272,7 @@ https://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
 #EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="Hindi",Zee Cinema HD
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_3_0i-y26m0/Tm5wVcNv-VI/AAAAAAAACIA/GJ-OHQR67ow/s500/StarGold+logo+2011.jpg" group-title="Hindi",STAR Gold HD
-http://starshare.live:8080/live/738323/277337/194.m3u8
+http://starshare.live:8080/live/738323/277337/194.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThsDmGVwtTESHt46VUV-oPIU0ngsz8ZrqxFEqVqR4pi2RTM-j-ycJ-CEHzuD65diJgsWc&usqp=CAU" group-title="Hindi",Star Gold 2
 http://185.71.64.167/live/694012161735110/694012161735110/83542.m3u8
 #EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="Hindi",Zee Action

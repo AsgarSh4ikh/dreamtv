@@ -255,7 +255,8 @@ http://103.205.133.19/hls/chs.m3u8
 #EXTINF:0 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="Hindi",Sony HD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:0 tvg-logo="https://data.apksum.com/64/in.com.sonymaxmobiletv/2.0.0/icon.png" group-title="Hindi",Sony Max HD
-http://starshare.live:8080/live/738323/277337/151.ts
+http://221.120.204.4/SONY-MAX/tracks-v1a1/mono.m3u8
+#http://starshare.live:8080/live/738323/277337/151.ts
 #EXTINF:0 tvg-logo="https://data.apksum.com/64/in.com.sonymaxmobiletv/2.0.0/icon.png" group-title="Hindi",Sony Max HD [Opt]
 http://208.115.215.42/SonY_Max_HD/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuu_2DUWu_4luFHKJ4PkstZe85KfcYni7nmFPFvkW-pAayRyfb9RifAnigDMnuggvNSN0&usqp=CAU" group-title="Hindi",Sony Max 2
@@ -271,7 +272,7 @@ https://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
 #EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="Hindi",Zee Cinema HD
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_3_0i-y26m0/Tm5wVcNv-VI/AAAAAAAACIA/GJ-OHQR67ow/s500/StarGold+logo+2011.jpg" group-title="Hindi",STAR Gold HD
-http://starshare.live:8080/live/738323/277337/194.ts
+http://starshare.live:8080/live/738323/277337/194.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThsDmGVwtTESHt46VUV-oPIU0ngsz8ZrqxFEqVqR4pi2RTM-j-ycJ-CEHzuD65diJgsWc&usqp=CAU" group-title="Hindi",Star Gold 2
 http://185.71.64.167/live/694012161735110/694012161735110/83542.m3u8
 #EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="Hindi",Zee Action
@@ -370,8 +371,7 @@ https://y5w8j4a9.ssl.hwcdn.net/newsmpcg/tracks-v2a1/mono.m3u8
  
 
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png" group-title="English",HBO
-https://raw.githubusercontent.com/Asependang/Belajar/main/Saluran/Hbo.m3u8
-#shttps://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/HBO.m3u8
+https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/HBO.m3u8
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png" group-title="English",HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English",Sony Pix
@@ -830,9 +830,9 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/08/14/3f/08143f803bf851ad3386e7238e3b7e0e.jpg" group-title="Mixed",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/SpBW5W2.png" group-title="Mixed",BBC World News
-http://203.162.235.41:16917
+http://51.52.156.22:8888/http/004
 #EXTINF:0 tvg-logo="https://i.imgur.com/CuqQXZz.png"" group-title="Mixed",CNN
-http://203.162.235.41:16918
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.logolynx.com/images/logolynx/06/06a7ef972e12acd213d5c04095295fb6.jpeg" group-title="Mixed",Bloomberg Asia
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/sgsTmb7/trt1.png" group-title="Mixed",TRT 1
